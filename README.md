@@ -1,10 +1,10 @@
 # [The Mystery Number App]
 -*Group*: [Group 1]
 -*Group Members*:
-[Jennifer Baleke-ST10470670
+Jennifer Baleke-ST10470670
 Precious Mbabazi-ST10470248
 Andile Masuku-ST10477470
-Kaamilah Mahomed-ST10492062]
+Kaamilah Mahomed-ST10492062
 
 ## Application Details:
 Our app was a Mystery Number Challenge game created with React Native using the coding language of Typescript. 
